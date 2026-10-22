@@ -26,6 +26,17 @@
     </td>
   </tr>
   <tr>
+    <td width="110" align="center">
+      <a href="https://github.com/mbielle/revive"><img src="https://raw.githubusercontent.com/mbielle/revive/main/docs/icon.png" width="90" alt="Revive"></a>
+    </td>
+    <td>
+      <a href="https://github.com/mbielle/revive"><b>Revive</b></a>: bring your Mac back to life.<br>
+      A free and open source Mac cleaner, optimizer and malware scanner, built natively in SwiftUI: one-click checkup, junk and AI cache cleanup, malware scan with Apple's XProtect signatures, complete uninstaller, duplicates and similar photos, an animated storage map and a menu bar monitor. No subscription, no telemetry.<br><br>
+      <a href="https://github.com/mbielle/revive/releases/latest"><img src="https://img.shields.io/github/v/release/mbielle/revive?include_prereleases&label=download&color=7c3aed" alt="Download"></a>
+      <a href="https://github.com/mbielle/revive"><img src="https://img.shields.io/github/stars/mbielle/revive?style=social" alt="Stars"></a>
+    </td>
+  </tr>
+  <tr>
     <td width="110" align="center"><a href="https://aim-ai.tech"><b>AIM AI</b></a></td>
     <td>
       <a href="https://aim-ai.tech"><b>AIM AI</b></a>: every AI and every agent in one Mac app.<br>
